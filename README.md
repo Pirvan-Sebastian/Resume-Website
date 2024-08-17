@@ -1,1 +1,2 @@
-# Resume Website created using HTML5
+#Resume Website
+Resume Website created using HTML5
